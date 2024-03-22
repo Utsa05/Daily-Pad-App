@@ -1,5 +1,7 @@
 # Daily Pad Offline 
-
+Getx 
+MVC
+DB: SQFLITE
 A new Flutter project.
 ![203298625_507024530618593_8671813187108380462_n](https://user-images.githubusercontent.com/71923060/183580373-fafedbd0-3a1e-4db4-aee5-bf9cda292471.png)
 ![201494418_1645231262348623_8793455061767778183_n](https://user-images.githubusercontent.com/71923060/183580396-8664ea25-af40-45a6-b4fe-ee3e1d38b706.png)
